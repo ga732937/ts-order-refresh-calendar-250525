@@ -1,0 +1,19 @@
+{
+  "name": "order-calendar-automation",
+  "version": "0.1.0",
+  "description": "Order calendar automation system",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^149.0.0"
+  }
+}
